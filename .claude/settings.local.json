@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/RONALD~1.RIB/AppData/Local/Temp/claude/C--MarketingAI/1409c10e-7150-4271-b231-0b917ee95665/scratchpad/**)",
+      "Bash(powershell -Command \"Compress-Archive -Path 'MarketingAI-Arquitetura.html' -DestinationPath 'MarketingAI-Arquitetura.zip' -Force\")"
+    ]
+  }
+}

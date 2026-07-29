@@ -1,0 +1,30 @@
+# compiled output
+/dist
+/node_modules
+
+# logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# environment variables
+.env
+.env.*
+!.env.example
+
+# coverage
+/coverage
+/.nyc_output
+
+# editor
+.idea
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# build artifacts
+*.tsbuildinfo
